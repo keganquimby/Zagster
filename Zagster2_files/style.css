@@ -1,0 +1,153 @@
+/*
+Orange:#f1720c;
+Light Blue:#6dcef5;
+Dark Blue:#0775ac;
+Pale Green:#50bfa4;
+Beige:#f7f5f2;
+*/
+
+
+#home-head.cover_photo {
+background: #45494d url('img/blur.jpg') no-repeat center center;
+background-size: cover;
+}
+
+#testimonials {
+padding-top: 80px;
+}
+
+header[role="banner"].navbar.navbar-fixed-top .nav a {
+color: #0775ac;
+}
+header[role="banner"].navbar.navbar-fixed-top .nav .store:hover .button {
+background-color: #50bfa4;
+}
+header[role="banner"].navbar.navbar-fixed-top .nav .store .button {
+background-color: #0775ac;
+}
+header[role="banner"].navbar.navbar-fixed-top .nav .store:hover .button {
+background-color: #6dcef5;
+}
+header[role="banner"].navbar .brand {
+background-image: url('img/Zagster_Logo.png');
+background-repeat: no-repeat;
+background-size: 150px 33px;
+}
+header[role="banner"].navbar .brand {
+width: 110px;
+}
+@media (-webkit-min-device-pixel-ratio: 1.5) {
+header[role="banner"].navbar .brand {
+background-image: url('img/Zagster_Logo.png');
+background-size: 150px 33px;
+}
+}
+
+
+.block-head h5 {
+color: #0775ac;
+border-bottom: 2px solid #0775ac;
+}
+.title h5 {
+color: #0775ac;
+}
+
+
+
+.btn.btn-green {
+background: #0775ac;
+}
+.btn.btn-green:hover {
+background: #6dcef5;
+}
+
+
+
+.btn.btn-white:hover {
+background-color: orange;
+}
+.btn.btn-outline.btn-white {
+color: #fff;
+border-color: orange;
+}
+.btn.btn-outline {
+background: orange;
+}
+.btn.btn-outline.btn-white:hover {
+background: orange;
+}
+
+
+/*Tightening Sections Up*/
+.wrap {
+padding: 30px 0;
+}
+#social-bandwidth {
+padding: 45px 0;
+}
+
+
+
+#hotspot-info .hotspot-top {
+margin: -31px 10px 45px 114px;
+}
+
+.subpage-head#pricing-head {
+background-image: url('img/home_03.jpg');
+}
+
+header[role="banner"].navbar.navbar-fixed-top .nav a:hover {
+color: #0775ac;
+}
+
+.data-example li {
+background-color: #0775ac;
+}
+
+.data-example li.data-email,
+.data-example li.data-movies,
+.data-example li.data-music,
+.data-example li.data-surfing {
+	background-image: none;
+}
+
+.data-example li p {
+margin-top: 1px;
+}
+
+.wrap-orange {
+background-color: #0775ac;
+color: #fffae5;
+}
+
+#about-head {
+background: url('about.jpg');
+}
+
+@media (max-width: 979px) and (min-width: 767px) {
+header[role="banner"].navbar.navbar-fixed-top .nav a {
+padding: 0px 5px;
+font-size: 80%;
+}
+}
+@media (max-width: 767px) {
+#hotspot-info .hotspot-top {
+display: inline-block;
+float: none;
+margin: 30px 30px;
+}
+header[role="banner"].navbar .brand {
+width: 150px;
+}
+}
+
+footer {
+	opacity: 1;
+}
+footer ul li a {
+color: #0775ac;
+}
+
+
+
+
